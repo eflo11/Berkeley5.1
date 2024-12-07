@@ -5,7 +5,8 @@ For this practical application we were tasked with finding out the likelyhood of
 Through the notebook you will find analysis and diagrams that show you how I came to conclusions for each of the scenarios.
 
 ### Results
-This will go through why and who would accept a coupon vs. who decided to decline the coupon all together.
+This will go through why and who would accept a coupon vs. who decided to decline the coupon all together. You can find the notebook [here](./prompt.ipynb).
+
 **Drivers to Accept**
 
 **Drivers to Decline**
