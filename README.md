@@ -9,4 +9,27 @@ This will go through why and who would accept a coupon vs. who decided to declin
 
 **Drivers to Accept**
 
+Bar
+    
+    - Typically individuals that are under 30 years of age
+    - Do not have any children
+    - Frequent the bars regularly
+    - Have high paying jobs
+
+Takout
+    - Are generally alone
+    - Have a higher percentage if unemployed
+
+
 **Drivers to Decline**
+
+Bar
+   
+    - Are over the age of 30
+    - Have children
+    - Visit the bar infrequently
+    - Don't have a high paying job
+
+Takeout
+
+    - Have friends in the car
