@@ -19,6 +19,7 @@ Bar
 Takout
     - Are generally alone
     - Have a higher percentage if unemployed
+    - Doesn't have a high impact on how often you visit
 
 
 **Drivers to Decline**
